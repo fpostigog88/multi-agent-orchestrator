@@ -32,3 +32,5 @@ print(result)
 ## Architecture
 
 Built around a simple abstraction: agents are functions with a `name`, `task` template, and optional `dependencies`. The orchestrator resolves the dependency graph and executes accordingly.
+
+Built by [Felipe Postigo](https://www.felipepostigo.com)
